@@ -1,0 +1,8 @@
+c:\users\tim nguyen\documents\visual studio 2012\Projects\Number To Text App\Number To Text App\bin\Debug\Number To Text App.exe.config
+c:\users\tim nguyen\documents\visual studio 2012\Projects\Number To Text App\Number To Text App\bin\Debug\Number To Text App.exe
+c:\users\tim nguyen\documents\visual studio 2012\Projects\Number To Text App\Number To Text App\bin\Debug\Number To Text App.pdb
+c:\users\tim nguyen\documents\visual studio 2012\Projects\Number To Text App\Number To Text App\obj\Debug\Number_To_Text_App.Form1.resources
+c:\users\tim nguyen\documents\visual studio 2012\Projects\Number To Text App\Number To Text App\obj\Debug\Number_To_Text_App.Properties.Resources.resources
+c:\users\tim nguyen\documents\visual studio 2012\Projects\Number To Text App\Number To Text App\obj\Debug\Number To Text App.csproj.GenerateResource.Cache
+c:\users\tim nguyen\documents\visual studio 2012\Projects\Number To Text App\Number To Text App\obj\Debug\Number To Text App.exe
+c:\users\tim nguyen\documents\visual studio 2012\Projects\Number To Text App\Number To Text App\obj\Debug\Number To Text App.pdb

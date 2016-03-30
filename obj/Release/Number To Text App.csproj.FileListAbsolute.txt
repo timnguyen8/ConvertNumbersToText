@@ -1,0 +1,9 @@
+C:\Users\Tim Nguyen\Documents\Visual Studio 2012\Projects\Number To Text App\Number To Text App\bin\Release\Number To Text App.exe.config
+C:\Users\Tim Nguyen\Documents\Visual Studio 2012\Projects\Number To Text App\Number To Text App\bin\Release\Number To Text App.exe
+C:\Users\Tim Nguyen\Documents\Visual Studio 2012\Projects\Number To Text App\Number To Text App\bin\Release\Number To Text App.pdb
+C:\Users\Tim Nguyen\Documents\Visual Studio 2012\Projects\Number To Text App\Number To Text App\obj\Release\Number_To_Text_App.Form1.resources
+C:\Users\Tim Nguyen\Documents\Visual Studio 2012\Projects\Number To Text App\Number To Text App\obj\Release\Number_To_Text_App.Properties.Resources.resources
+C:\Users\Tim Nguyen\Documents\Visual Studio 2012\Projects\Number To Text App\Number To Text App\obj\Release\Number To Text App.csproj.GenerateResource.Cache
+C:\Users\Tim Nguyen\Documents\Visual Studio 2012\Projects\Number To Text App\Number To Text App\obj\Release\Number To Text App.exe
+C:\Users\Tim Nguyen\Documents\Visual Studio 2012\Projects\Number To Text App\Number To Text App\obj\Release\Number To Text App.pdb
+C:\Users\Tim Nguyen\Documents\Visual Studio 2012\Projects\Number To Text App\Number To Text App\obj\Release\Number To Text App.csprojResolveAssemblyReference.cache
